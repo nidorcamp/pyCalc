@@ -1,9 +1,4 @@
-def msg(s="<string>"):
-    print("-" * 30)
-    print(s.center(30))
-    print("-" * 30)
-    print()
-
+import functionalities 
 
 msg("pyCalc")
 n1 = int(input("Number: "))
